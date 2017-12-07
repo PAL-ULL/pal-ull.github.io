@@ -31,7 +31,7 @@ Assume you want to create a book inside the Github organization
   origin	https://github.com/my-organization/my-repo.git (fetch)
   origin	https://github.com/my-organization/my-repo.git (push)
   ```
-* Push the changes: `git commit -am `new book` && `git push origin master`
+* Push the changes: `git commit -am 'new book' && git push origin master`
 * In GitHub go to the settings of the new repo and set the `master` branch as the branch for GitHub pages
 * Run `gitbook install` to install plugins from registry.
 * Install the dependencies of this book/project `npm i`
