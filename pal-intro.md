@@ -11,16 +11,18 @@
 **Catedratico de Universidad**
 :   Casiano Rodriguez Leon
 
-**Profesor Contratado Doctor Interino**
+**Profesor Contratado Doctor**
 :   Gara Miranda Valladares
 
-**Personal Invest.en Formación (prácticas)**
-:   Carlos Segura Gonzalez
 
 **Becario**
 :   Juan Manuel Ramos Pérez
 :   Yanira Gonzalez Gonzalez
 
+## Colaboradores Exernos
+
+**Investigador ASociado**
+:   [Carlos Segura Gonzalez](http://www.cimat.mx/es/content/segura-gonz%C3%A1lez-carlos)
 
 ## Áreas de investigación 
 
