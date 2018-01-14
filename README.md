@@ -1,6 +1,7 @@
 # Parallel Algorithms and Languages Group at Universidad de La Laguna
 
 * [Current PAL home page at ULL](https://www.ull.es/investigacion/grupos-investigacion/algoritmos-y-lenguajes-paralelos/)
+* [PAL web page at GitHub](https://pal-ull.github.io/)
 
 ## Skeleton to build a GitBook and Deploy it to GitHub Pages
 
