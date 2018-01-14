@@ -18,6 +18,7 @@
 :   Carlos Segura Gonzalez
 
 **Becario**
+:   Juan Manuel Ramos Pérez
 :   Yanira Gonzalez Gonzalez
 
 
