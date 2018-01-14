@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [PAL intro](pal-intro.md)
 * [Projects](projects.md)
 * [Aula Cultural Pensamiento Computacional](https://sites.google.com/a/ull.edu.es/pensamiento-computacional/)
 
