@@ -1,8 +1,12 @@
-# Skeleton to build a GitBook and Deploy it to GitHub Pages
+# Parallel Algorithms and Languages Group at Universidad de La Laguna
+
+* [Current PAL home page at ULL](https://www.ull.es/investigacion/grupos-investigacion/algoritmos-y-lenguajes-paralelos/)
+
+## Skeleton to build a GitBook and Deploy it to GitHub Pages
 
 Skeleton to build a book with gitbook and deploy it to GitHub pages
 
-### Instrucciones para los autores
+#### Instrucciones para los autores
 
 Assume you want to create a book inside the Github organization
 `my-organization` with name `my-repo`. Follow these steps:
