@@ -20,8 +20,9 @@
 
 ## Colaboradores Exernos
 
-**Investigador ASociado**
+**Investigador Asociado**
 :   [Carlos Segura Gonzalez](http://www.cimat.mx/es/content/segura-gonz%C3%A1lez-carlos)
+
 :   Yanira Gonzalez Gonzalez
 
 ## Áreas de investigación 
