@@ -6,12 +6,12 @@
 
 ### LSI
 
-- [LSI GitHub page](https://ull-lsi.github.io/_book/)
-- [LSI en el Campus Virtual](https://campusvirtual.ull.es/entornos/course/view.php?id=497)
-- [Foro](https://campusvirtual.ull.es/entornos/mod/forum/view.php?id=47813)
-- [Comisiones](https://campusvirtual.ull.es/entornos/mod/page/view.php?id=61492)
-- [Personal](https://campusvirtual.ull.es/entornos/user/index.php?contextid=48392)
-- [Grupos de Investigación en Ciencias de la Computación y Tecnología Informática (INF)](grupos-de-investigacion.md)
+- [LSI (GitHub page)](https://ull-lsi.github.io/_book/)
+  - [LSI en el Campus Virtual](https://campusvirtual.ull.es/entornos/course/view.php?id=497)
+  - [Foro](https://campusvirtual.ull.es/entornos/mod/forum/view.php?id=47813)
+  - [Comisiones](https://campusvirtual.ull.es/entornos/mod/page/view.php?id=61492)
+  - [Personal](https://campusvirtual.ull.es/entornos/user/index.php?contextid=48392)
+  - [Grupos de Investigación en Ciencias de la Computación y Tecnología Informática (INF)](grupos-de-investigacion.md)
 
 ### DIIS
 
