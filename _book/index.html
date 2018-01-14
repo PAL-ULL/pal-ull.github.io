@@ -59,7 +59,7 @@
     <link rel="shortcut icon" href="gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="pal-intro.html" />
+    <link rel="next" href="projects.html" />
     
     
 
@@ -102,20 +102,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.2" data-path="pal-intro.html">
-            
-                <a href="pal-intro.html">
-            
-                    
-                    PAL intro
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.3" data-path="projects.html">
+        <li class="chapter " data-level="1.2" data-path="projects.html">
             
                 <a href="projects.html">
             
@@ -128,7 +115,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.4" >
+        <li class="chapter " data-level="1.3" >
             
                 <a target="_blank" href="https://sites.google.com/a/ull.edu.es/pensamiento-computacional/">
             
@@ -447,53 +434,30 @@
 <li><a href="https://github.com/PAL-ULL/pal-ull.github.io" target="_blank">Repo pal.github.io</a></li>
 <li><a href="https://github.com/PAL-ULL" target="_blank">PAL-ULL organization</a></li>
 </ul>
-<h2 id="skeleton-to-build-a-gitbook-and-deploy-it-to-github-pages">Skeleton to build a GitBook and Deploy it to GitHub Pages</h2>
-<p>Skeleton to build a book with gitbook and deploy it to GitHub pages</p>
-<h4 id="instrucciones-para-los-autores">Instrucciones para los autores</h4>
-<p>Assume you want to create a book inside the Github organization
-<code>my-organization</code> with name <code>my-repo</code>. Follow these steps:</p>
+<h2 id="coordinador">Coordinador</h2>
+<p><strong>Profesor Titular Universidad</strong>
+:   Coromoto Antonia Leon Hernandez</p>
+<h2 id="miembros">Miembros</h2>
+<p><strong>Profesor Asociado</strong>
+:   Eduardo Manuel Segredo Gonzalez</p>
+<p><strong>Catedratico de Universidad</strong>
+:   <a href="https://crguezl.github.io" target="_blank">Casiano Rodriguez Leon</a></p>
+<p><strong>Profesor Contratado Doctor</strong>
+:   Gara Miranda Valladares</p>
+<p><strong>Becario</strong>
+:   Juan Manuel Ramos P&#xE9;rez</p>
+<h2 id="colaboradores-externos">Colaboradores Externos</h2>
+<p><strong>Investigadores Asociados</strong></p>
 <ul>
-<li>Install <a href="https://git-scm.com/" target="_blank">git</a></li>
-<li>Install <a href="https://nodejs.org/es/" target="_blank">NodeJS</a></li>
-<li>Install <a href="https://gulpjs.com/" target="_blank">gulp</a> globally: <code>npm i -g gulp</code></li>
-<li><p>Install <a href="https://github.com/GitbookIO/gitbook/blob/master/docs/setup.md" target="_blank">gitbook</a> in your computer</p>
+<li><a href="http://www.cimat.mx/es/content/segura-gonz%C3%A1lez-carlos" target="_blank">Carlos Segura Gonzalez</a></li>
+<li><a href="https://www.researchgate.net/profile/Yanira_Gonzalez" target="_blank">Yanira Gonzalez Gonzalez</a></li>
+</ul>
+<h2 id="&#xE1;reas-de-investigaci&#xF3;n">&#xC1;reas de investigaci&#xF3;n</h2>
 <ul>
-<li><p>Install <code>gitbook-cli</code>:</p>
-<pre><code>      npm i -g gitbook-cli
-</code></pre></li>
-</ul>
-</li>
-<li><a href="https://github.com/join?source=header-home" target="_blank">Join GitHub</a></li>
-<li>Install <a href="https://github.com/github/hub" target="_blank">hub</a> (optional)</li>
-<li>The skeleton of the book is hosted in this repo: <a href="https://github.com/etsiiull/gitbook-skeleton" target="_blank">https://github.com/etsiiull/gitbook-skeleton</a><ul>
-<li>Fork or clone this repo <code>hub clone etsiiull/gitbook-skeleton my-repo</code></li>
-<li>Alternatively, clone the book in your machine using: <code>git clone https://github.com/etsiiull/gitbook-skeleton.git</code> </li>
-</ul>
-</li>
-<li>Modify the files <code>gulpfile.js</code> and <code>package.json</code><ul>
-<li>Substitute all the appearances of <code>etsiiull</code> by <code>my-organization</code> in <code>gulpfile.js</code>,</li>
-<li>Substitute all the appearances of <code>gitbook-skeleton</code> by <code>my-repo</code> in <code>gulpfile.js</code>, <code>package.json</code></li>
-<li>Change the <code>name</code>, <code>description</code>, author<code>,</code>keywords<code>, etc. in</code>package.json`</li>
-</ul>
-</li>
-<li>Remove the <code>origin</code> remote: <code>git remote rm origin</code><ul>
-<li>Or alternatively rename the remote <code>git remote rename origin etsiiull</code></li>
-</ul>
-</li>
-<li>Create the new repo in GitHub: <code>hub create my-organization/my-repo</code><pre><code>[~/TFGsrc/my-repo(master)]$ git remote -v
-origin    https://github.com/my-organization/my-repo.git (fetch)
-origin    https://github.com/my-organization/my-repo.git (push)
-</code></pre></li>
-<li>Push the changes: <code>git commit -am &apos;new book&apos; &amp;&amp; git push origin master</code></li>
-<li>Visit the GitHub page of your repo <code>hub browse</code></li>
-<li>In the GitHub page of your repo go to the settings of the new repo and set the <code>master</code> branch as the branch for GitHub pages</li>
-<li>Run <code>gitbook install</code> to install plugins from registry.</li>
-<li>Install the dependencies of this book/project <code>npm i</code></li>
-<li>Write in <a href="https://es.wikipedia.org/wiki/Markdown" target="_blank">markdown</a> the contents of your book</li>
-<li>Compile the book with <code>gulp build</code> to produce the HTML</li>
-<li>To deploy your book in GitHub write <code>gulp deploy</code></li>
-<li>Visit <a href="https://etsiiull.github.io/gitbook-skeleton/_book/" target="_blank">https://my-repo.github.io</a> to see the result</li>
-<li>For more details see the section <a href="gitbook.html">Markdown and GitBook</a></li>
+<li>Tecnolog&#xED;as inform&#xE1;ticas </li>
+<li>Ciencias de la Computaci&#xF3;n y Tecnolog&#xED;a Inform&#xE1;tica (INF) </li>
+<li>Matem&#xE1;ticas (MTM) </li>
+<li>Ciencias de la Educaci&#xF3;n (EDUC)</li>
 </ul>
 
                                 
@@ -523,7 +487,7 @@ origin    https://github.com/my-organization/my-repo.git (push)
             
                 
                 
-                <a href="pal-intro.html" class="navigation navigation-next navigation-unique" aria-label="Next page: PAL intro">
+                <a href="projects.html" class="navigation navigation-next navigation-unique" aria-label="Next page: Projects">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -534,7 +498,7 @@ origin    https://github.com/my-organization/my-repo.git (push)
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Introduction","level":"1.1","depth":1,"next":{"title":"PAL intro","level":"1.2","depth":1,"path":"pal-intro.md","ref":"pal-intro.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["youtube","copy-code-button"],"pluginsConfig":{"youtube":{},"copy-code-button":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"README.md","mtime":"2018-01-14T11:23:30.560Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2018-01-14T21:09:41.888Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Introduction","level":"1.1","depth":1,"next":{"title":"Projects","level":"1.2","depth":1,"path":"projects.md","ref":"projects.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["youtube","copy-code-button"],"pluginsConfig":{"youtube":{},"copy-code-button":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"README.md","mtime":"2018-01-14T21:15:15.805Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2018-01-14T21:16:45.101Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
