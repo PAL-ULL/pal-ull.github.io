@@ -1,7 +1,7 @@
 ## Coordinador
 
 **Profesor Titular Universidad**
-:   [Coromoto Antonia Leon Hernandez](coro.md)
+:   Coromoto Antonia Leon Hernandez
 
 ## Miembros
 
