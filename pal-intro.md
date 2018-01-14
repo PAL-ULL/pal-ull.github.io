@@ -18,9 +18,9 @@
 **Becario**
 :   Juan Manuel Ramos Pérez
 
-## Colaboradores Exernos
+## Colaboradores Externos
 
-**Investigador Asociado**
+**Investigadores Asociados**
 :   [Carlos Segura Gonzalez](http://www.cimat.mx/es/content/segura-gonz%C3%A1lez-carlos)
 
 :   Yanira Gonzalez Gonzalez
