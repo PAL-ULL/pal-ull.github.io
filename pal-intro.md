@@ -22,7 +22,7 @@
 
 **Investigadores Asociados**
 *   [Carlos Segura Gonzalez](http://www.cimat.mx/es/content/segura-gonz%C3%A1lez-carlos)
-*   Yanira Gonzalez Gonzalez
+*   [Yanira Gonzalez Gonzalez](https://www.researchgate.net/profile/Yanira_Gonzalez)
 
 ## Áreas de investigación 
 
