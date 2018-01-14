@@ -2,6 +2,8 @@
 
 * [Current PAL home page at ULL](https://www.ull.es/investigacion/grupos-investigacion/algoritmos-y-lenguajes-paralelos/)
 * [PAL web page at GitHub](https://pal-ull.github.io/)
+* [Repo pal.github.io](https://github.com/PAL-ULL/pal-ull.github.io)
+* [PAL-ULL organization](https://github.com/PAL-ULL)
 
 ## Skeleton to build a GitBook and Deploy it to GitHub Pages
 

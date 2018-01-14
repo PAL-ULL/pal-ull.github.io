@@ -9,7 +9,7 @@
 :   Eduardo Manuel Segredo Gonzalez
 
 **Catedratico de Universidad**
-:   Casiano Rodriguez Leon
+:   [Casiano Rodriguez Leon](https://crguezl.github.io)
 
 **Profesor Contratado Doctor**
 :   Gara Miranda Valladares
