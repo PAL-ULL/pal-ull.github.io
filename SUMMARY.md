@@ -1,4 +1,3 @@
-# Parallel Algorithms and Languages Group at Universidad de La Laguna
 
 * [Objectives](objectives.md)
 * [Members and Research Lines](README.md)
@@ -7,7 +6,7 @@
 * [Teaching](teaching.md)
 * [Aula Cultural Pensamiento Computacional](https://sites.google.com/a/ull.edu.es/pensamiento-computacional/)
 
-# Related Links
+## Related Links
 
 ### LSI
 
@@ -35,4 +34,4 @@
 
 ### Instruction for the co-authors of this page
 
-* [Markdown y GitBook](gitbook.md)
+* [Markdown and GitBook](gitbook.md)

@@ -3,6 +3,7 @@
         "-theme-gestalt",
         "custom-favicon",
         "youtube",
+        "-insert-logo-link",
         "copy-code-button"
     ],
     "pluginsConfig": {
@@ -13,6 +14,10 @@
 							"excludeDefaultStyles": true,        
 							"doNotHideChildrenChapters" : false        
 					},
+    "insert-logo-link": {
+       "src": "assets/logo-ull.jpg",
+       "url": "https://www.ull.es"
+     },
 			"favicon": "assets/favicon.ico"
     }
 }
