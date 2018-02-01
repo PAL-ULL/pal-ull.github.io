@@ -1,8 +1,18 @@
 {
     "plugins": [
+        "-theme-gestalt",
+        "custom-favicon",
         "youtube",
         "copy-code-button"
     ],
     "pluginsConfig": {
+			 "theme-gestalt": {
+							"logo": "/assets/logo.png",            
+							"favicon": "/assets/favicon.png",        
+							"baseUrl": null,                
+							"excludeDefaultStyles": true,        
+							"doNotHideChildrenChapters" : false        
+					},
+			"favicon": "assets/favicon.ico"
     }
 }
