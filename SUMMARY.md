@@ -1,8 +1,13 @@
-# Summary
+# Parallel Algorithms and Languages Group at Universidad de La Laguna
 
-* [Introduction](README.md)
-* [Projects](projects.md)
+* [Objectives](objectives.md)
+* [Members and Research Lines](README.md)
+* [Projects and Colaborations](projects.md)
+* [Publications](publications.md)
+* [Teaching](teaching.md)
 * [Aula Cultural Pensamiento Computacional](https://sites.google.com/a/ull.edu.es/pensamiento-computacional/)
+
+# Related Links
 
 ### LSI
 
@@ -28,6 +33,6 @@
   - [III Congreso de Estudiantes de Ingeniería Informática](https://sites.google.com/ull.edu.es/cesinf/p%C3%A1gina-principal?authuser=0)
   - [II Congreso de Estudiantes de Ingeniería Informática de la Universidad de La Laguna](https://eventos.ull.es/event_detail/3026/detail/ii-congreso-de-estudiantes-de-ingenieria-informatica-de-la-universidad-de-la-laguna.html)
 
-### Instruction for the co-authors
+### Instruction for the co-authors of this page
 
 * [Markdown y GitBook](gitbook.md)
