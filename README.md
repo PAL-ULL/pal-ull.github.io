@@ -7,23 +7,27 @@
 
 ## Coordinador
 
-**Profesor Titular Universidad**
-:   Coromoto Antonia Leon Hernandez
+##### Coromoto Antonia Leon Hernandez
+
+{% include "./coro.md" %}
 
 ## Miembros
 
-**Profesor Asociado**
-:   Eduardo Manuel Segredo Gonzalez
+##### Eduardo Manuel Segredo Gonzalez
 
-**Catedratico de Universidad**
-:   [Casiano Rodriguez Leon](https://crguezl.github.io)
+{% include "./edu.md" %}
 
-**Profesor Contratado Doctor**
-:   Gara Miranda Valladares
+##### Casiano Rodriguez Leon
 
+{% include "./casiano.md" %}
 
-**Becario**
-:   Juan Manuel Ramos Pérez
+##### Gara Miranda Valladares
+
+{% include "./gara.md" %}
+
+##### Juan Manuel Ramos Pérez
+
+{% include "./juan-manuel.md" %}
 
 ## Colaboradores Externos
 
