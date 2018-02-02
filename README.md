@@ -5,13 +5,13 @@
 * [Repo pal.github.io](https://github.com/PAL-ULL/pal-ull.github.io)
 * [PAL-ULL organization](https://github.com/PAL-ULL)
 
-## Coordinador
+## Coordinator/Coordinador
 
 ##### Coromoto Antonia Leon Hernandez
 
 {% include "./coro.md" %}
 
-## Miembros
+## Members/Miembros
 
 ##### Eduardo Manuel Segredo Gonzalez
 
@@ -29,13 +29,13 @@
 
 {% include "./juan-manuel.md" %}
 
-## Colaboradores Externos
+## Outside Collaborators/Colaboradores Externos
 
-**Investigadores Asociados**
+**Associated Researchers/Investigadores Asociados**
 *   [Carlos Segura Gonzalez](http://www.cimat.mx/es/content/segura-gonz%C3%A1lez-carlos)
 *   [Yanira Gonzalez Gonzalez](https://www.researchgate.net/profile/Yanira_Gonzalez)
 
-## Áreas de investigación 
+## Research Areas/Áreas de investigación 
 
 * Tecnologías informáticas 
 * Ciencias de la Computación y Tecnología Informática (INF) 
