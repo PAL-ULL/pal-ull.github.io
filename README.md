@@ -7,17 +7,17 @@
 
 ## Coordinator/Coordinador
 
-##### [Coromoto Antonia Leon Hernandez](coro.md)
+* [Coromoto Antonia Leon Hernandez](coro.md)
 
 ## Members/Miembros
 
-##### [Eduardo Manuel Segredo Gonzalez](edu.md)
+* [Eduardo Manuel Segredo Gonzalez](edu.md)
 
-##### [Casiano Rodriguez Leon](casiano.md)
+* [Casiano Rodriguez Leon](casiano.md)
 
-##### [Gara Miranda Valladares](gara.md)
+* [Gara Miranda Valladares](gara.md)
 
-##### [Juan Manuel Ramos Pérez](juan-manuel.md)
+* [Juan Manuel Ramos Pérez](juan-manuel.md)
 
 ## Outside Collaborators/Colaboradores Externos
 
