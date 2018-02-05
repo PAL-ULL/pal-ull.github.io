@@ -1,6 +1,11 @@
 
 * [Objectives](objectives.md)
 * [Members and Research Lines](README.md)
+  - [Coro](coro.md)
+  - [Eduardo Segredo](edu.md)
+  - [Casiano](casiano.md)
+  - [Gara](gara.md)
+  - [Juan Manuel](juan-manuel.md)
 * [Projects and Colaborations](projects.md)
 * [Publications](publications.md)
 * [Teaching](teaching.md)

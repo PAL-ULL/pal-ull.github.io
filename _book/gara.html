@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>Markdown and GitBook · GitBook</title>
+        <title>Gara · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.2">
@@ -59,6 +59,10 @@
     <link rel="shortcut icon" href="gitbook/images/favicon.ico" type="image/x-icon">
 
     
+    <link rel="next" href="juan-manuel.html" />
+    
+    
+    <link rel="prev" href="casiano.html" />
     
 
     </head>
@@ -149,7 +153,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.2.4" data-path="gara.html">
+        <li class="chapter active" data-level="1.2.4" data-path="gara.html">
             
                 <a href="gara.html">
             
@@ -486,7 +490,7 @@
         
         
     
-        <li class="chapter active" data-level="6.1" data-path="gitbook.html">
+        <li class="chapter " data-level="6.1" data-path="gitbook.html">
             
                 <a href="gitbook.html">
             
@@ -529,7 +533,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href="." >Markdown and GitBook</a>
+        <a href="." >Gara</a>
     </h1>
 </div>
 
@@ -541,91 +545,9 @@
                             
                                 <section class="normal markdown-section">
                                 
-                                <h2 id="skeleton-to-build-a-gitbook-and-deploy-it-to-github-pages">Skeleton to build a GitBook and Deploy it to GitHub Pages</h2>
-<p>Skeleton to build a book with gitbook and deploy it to GitHub pages</p>
-<h4 id="instrucciones-para-los-autores">Instrucciones para los autores</h4>
-<p>Assume you want to create a book inside the Github organization
-<code>my-organization</code> with name <code>my-repo</code>. Follow these steps:</p>
-<ul>
-<li>Install <a href="https://git-scm.com/" target="_blank">git</a></li>
-<li>Install <a href="https://nodejs.org/es/" target="_blank">NodeJS</a></li>
-<li>Install <a href="https://gulpjs.com/" target="_blank">gulp</a> globally: <code>npm i -g gulp</code></li>
-<li><p>Install <a href="https://github.com/GitbookIO/gitbook/blob/master/docs/setup.md" target="_blank">gitbook</a> in your computer</p>
-<ul>
-<li><p>Install <code>gitbook-cli</code>:</p>
-<pre><code>      npm i -g gitbook-cli
-</code></pre></li>
+                                <ul>
+<li>Profesor Contratado Doctor</li>
 </ul>
-</li>
-<li><a href="https://github.com/join?source=header-home" target="_blank">Join GitHub</a></li>
-<li>Install <a href="https://github.com/github/hub" target="_blank">hub</a> (optional)</li>
-<li>The skeleton of the book is hosted in this repo: <a href="https://github.com/etsiiull/gitbook-skeleton" target="_blank">https://github.com/etsiiull/gitbook-skeleton</a><ul>
-<li>Fork or clone this repo <code>hub clone etsiiull/gitbook-skeleton my-repo</code></li>
-<li>Alternatively, clone the book in your machine using: <code>git clone https://github.com/etsiiull/gitbook-skeleton.git</code> </li>
-</ul>
-</li>
-<li>Modify the files <code>gulpfile.js</code> and <code>package.json</code><ul>
-<li>Substitute all the appearances of <code>etsiiull</code> by <code>my-organization</code> in <code>gulpfile.js</code>,</li>
-<li>Substitute all the appearances of <code>gitbook-skeleton</code> by <code>my-repo</code> in <code>gulpfile.js</code>, <code>package.json</code></li>
-<li>Change the <code>name</code>, <code>description</code>, author<code>,</code>keywords<code>, etc. in</code>package.json`</li>
-</ul>
-</li>
-<li>Remove the <code>origin</code> remote: <code>git remote rm origin</code><ul>
-<li>Or alternatively rename the remote <code>git remote rename origin etsiiull</code></li>
-</ul>
-</li>
-<li>Create the new repo in GitHub: <code>hub create my-organization/my-repo</code><pre><code>[~/TFGsrc/my-repo(master)]$ git remote -v
-origin    https://github.com/my-organization/my-repo.git (fetch)
-origin    https://github.com/my-organization/my-repo.git (push)
-</code></pre></li>
-<li>Push the changes: <code>git commit -am &apos;new book&apos; &amp;&amp; git push origin master</code></li>
-<li>Visit the GitHub page of your repo <code>hub browse</code></li>
-<li>In the GitHub page of your repo go to the settings of the new repo and set the <code>master</code> branch as the branch for GitHub pages</li>
-<li>Run <code>gitbook install</code> to install plugins from registry.</li>
-<li>Install the dependencies of this book/project <code>npm i</code></li>
-<li>Write in <a href="https://es.wikipedia.org/wiki/Markdown" target="_blank">markdown</a> the contents of your book</li>
-<li>Compile the book with <code>gulp build</code> to produce the HTML</li>
-<li>To deploy your book in GitHub write <code>gulp deploy</code></li>
-<li>Visit <a href="https://etsiiull.github.io/gitbook-skeleton/_book/" target="_blank">https://my-repo.github.io</a> to see the result</li>
-<li>For more details see the section <a href="gitbook.html">Markdown and GitBook</a></li>
-</ul>
-<h3 id="curso-de-markdown-y-gitbook">Curso de Markdown y GitBook</h3>
-<ul>
-<li><a href="https://casianorodriguezleon.gitbooks.io/elaboracion-de-material-docente-con-gitbook/content/" target="_blank">Apuntes de Markdown y GitBook</a> En Gitbook</li>
-<li><a href="https://ull-pfpdi-gitbook-1617.github.io/Elaboracion-de-Material-Docente-con-GitBook/" target="_blank">Apuntes de Markdown y GitBook</a> En GitHub</li>
-</ul>
-<h3 id="notas">Notas</h3>
-<p>Cuando se despliega un libro gitbook en las GitHub Pages
-yo suelo hacerlo as&#xED;:</p>
-<ol>
-<li>Crear un fichero <code>.nojekyll</code> para inhibir el uso de <code>jekyll</code><pre><code class="lang-bash">~/GitBook/Library/Import/curso-gihub(master)]$ ls <span class="hljs-_">-l</span> .nojekyll 
--rw-r--r--  1 casiano  staff  0 17 nov 15:02 .nojekyll
-</code></pre>
-</li>
-<li>A&#xF1;adir el directorio/carpeta con los HTML generados  <code>_book/</code>  al repo<pre><code class="lang-bash">[~/GitBook/Library/Import/curso-gihub(master)]$ git add _book
-</code></pre>
-</li>
-<li>Configurar el repo remoto en GitHub para que las p&#xE1;ginas se sirvan desde la rama <code>master</code> (settings del repo, seccion gh-pages)
-<img src="resources/settingghpages.png" alt=""></li>
-<li>Poner en la ra&#xED;z del repo un fichero <code>index.html</code> que redirige a <code>_book/index.html</code> como este:<pre><code class="lang-html"> <span class="hljs-meta">&lt;!DOCTYPE HTML&gt;</span>
- <span class="hljs-tag">&lt;<span class="hljs-name">html</span> <span class="hljs-attr">lang</span>=<span class="hljs-string">&quot;en-US&quot;</span>&gt;</span>
-         <span class="hljs-tag">&lt;<span class="hljs-name">head</span>&gt;</span>
-                 <span class="hljs-tag">&lt;<span class="hljs-name">meta</span> <span class="hljs-attr">charset</span>=<span class="hljs-string">&quot;UTF-8&quot;</span>&gt;</span>
-                 <span class="hljs-tag">&lt;<span class="hljs-name">meta</span> <span class="hljs-attr">http-equiv</span>=<span class="hljs-string">&quot;refresh&quot;</span> <span class="hljs-attr">content</span>=<span class="hljs-string">&quot;1; url=_book/&quot;</span>&gt;</span>
-                 <span class="hljs-tag">&lt;<span class="hljs-name">script</span> <span class="hljs-attr">type</span>=<span class="hljs-string">&quot;text/javascript&quot;</span>&gt;</span><span class="javascript">
-                         <span class="hljs-built_in">window</span>.location.href = <span class="hljs-string">&quot;_book/&quot;</span>
-                 </span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span>
-                 <span class="hljs-tag">&lt;<span class="hljs-name">title</span>&gt;</span>Page Redirection<span class="hljs-tag">&lt;/<span class="hljs-name">title</span>&gt;</span>
-         <span class="hljs-tag">&lt;/<span class="hljs-name">head</span>&gt;</span>
-         <span class="hljs-tag">&lt;<span class="hljs-name">body</span>&gt;</span>
-                 <span class="hljs-comment">&lt;!-- <span class="hljs-doctag">Note:</span> don&apos;t tell people to `click` the link, just tell them that it is a link. --&gt;</span>
-                 If you are not redirected automatically, follow this <span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&apos;_book/&apos;</span>&gt;</span>link to the book<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span>.
-         <span class="hljs-tag">&lt;/<span class="hljs-name">body</span>&gt;</span>
- <span class="hljs-tag">&lt;/<span class="hljs-name">html</span>&gt;</span>
-</code></pre>
-</li>
-<li>Aseg&#xFA;rese que el directorio <code>_book</code>no es ignorado en <code>.gitignore</code> </li>
-</ol>
 
                                 
                                 </section>
@@ -637,6 +559,14 @@ yo suelo hacerlo as&#xED;:</p>
 
             
                 
+                <a href="casiano.html" class="navigation navigation-prev " aria-label="Previous page: Casiano">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="juan-manuel.html" class="navigation navigation-next " aria-label="Next page: Juan Manuel">
+                    <i class="fa fa-angle-right"></i>
+                </a>
                 
             
         
@@ -645,7 +575,7 @@ yo suelo hacerlo as&#xED;:</p>
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Markdown and GitBook","level":"6.1","depth":1,"previous":{"title":"II Congreso de Estudiantes de Ingeniería Informática de la Universidad de La Laguna","level":"5.1.3","depth":2,"url":"https://eventos.ull.es/event_detail/3026/detail/ii-congreso-de-estudiantes-de-ingenieria-informatica-de-la-universidad-de-la-laguna.html","ref":"https://eventos.ull.es/event_detail/3026/detail/ii-congreso-de-estudiantes-de-ingenieria-informatica-de-la-universidad-de-la-laguna.html","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["-theme-gestalt","custom-favicon","youtube","-insert-logo-link","copy-code-button"],"pluginsConfig":{"youtube":{},"theme-gestalt":{"logo":"/assets/logo.png","favicon":"/assets/favicon.png","baseUrl":null,"excludeDefaultStyles":true,"doNotHideChildrenChapters":false},"insert-logo-link":{"src":"assets/logo-ull.jpg","url":"https://www.ull.es"},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"favicon":"assets/compthink.png","custom-favicon":{},"copy-code-button":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"gitbook.md","mtime":"2018-02-01T12:49:01.949Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2018-02-05T17:30:47.790Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Gara","level":"1.2.4","depth":2,"next":{"title":"Juan Manuel","level":"1.2.5","depth":2,"path":"juan-manuel.md","ref":"juan-manuel.md","articles":[]},"previous":{"title":"Casiano","level":"1.2.3","depth":2,"path":"casiano.md","ref":"casiano.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["-theme-gestalt","custom-favicon","youtube","-insert-logo-link","copy-code-button"],"pluginsConfig":{"youtube":{},"theme-gestalt":{"logo":"/assets/logo.png","favicon":"/assets/favicon.png","baseUrl":null,"excludeDefaultStyles":true,"doNotHideChildrenChapters":false},"insert-logo-link":{"src":"assets/logo-ull.jpg","url":"https://www.ull.es"},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"favicon":"assets/compthink.png","custom-favicon":{},"copy-code-button":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"gara.md","mtime":"2018-02-02T22:56:44.798Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2018-02-05T17:30:47.790Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>

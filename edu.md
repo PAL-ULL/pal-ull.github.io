@@ -1,3 +1,4 @@
+## Eduardo Manuel Segredo González
   * Profesor Asociado en Universidad de La Laguna
   * [Investigador senior en la Edinburgh Napier University, Reino Unido](https://www.napier.ac.uk/people/eduardo-segredo-gonzalez)
 

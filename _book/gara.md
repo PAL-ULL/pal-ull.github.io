@@ -1,2 +1,0 @@
-* Profesor Contratado Doctor
-
