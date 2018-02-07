@@ -26,9 +26,9 @@
 
 ## Research Areas/Áreas de investigación 
 
-* Tecnologías informáticas 
-* Ciencias de la Computación y Tecnología Informática (INF) 
-* Matemáticas (MTM) 
-* Ciencias de la Educación (EDUC)
+* Computer Technology/Tecnologías informáticas 
+* Computer Science/Ciencias de la Computación y Tecnología Informática (INF) 
+* Mathematics/Matemáticas (MTM) 
+* Education Sciences/Ciencias de la Educación (EDUC)
 
 
