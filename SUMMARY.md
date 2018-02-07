@@ -20,7 +20,7 @@
   - [Foro](https://campusvirtual.ull.es/entornos/mod/forum/view.php?id=47813)
   - [Comisiones](https://campusvirtual.ull.es/entornos/mod/page/view.php?id=61492)
   - [Personal](https://campusvirtual.ull.es/entornos/user/index.php?contextid=48392)
-  - [Grupos de Investigación en Ciencias de la Computación y Tecnología Informática (INF)](grupos-de-investigacion.md)
+  - [Grupos de Investigación en Ciencias de la Computación y Tecnología Informática (INF)](https://ull-lsi.github.io/_book/grupos-de-investigacion.html)
 
 ### DIIS
 
