@@ -1,5 +1,3 @@
-
-* [Objectives](objectives.md)
 * [Members and Research Lines](README.md)
   - [Coromoto León](coro.md)
   - [Eduardo Segredo](edu.md)
