@@ -1,7 +1,7 @@
 * TOMAS project (TIN2016-78410-R)
   * [Meta-heuristics for the Optimisation of Resources and Problems in Health](https://github.com/Tomas-Morph/coordination)
-* Project TIC99-0754-C03-01 
-* MaLLBa TIC99-0754-C03-01 
+* Project TIC99-0754-C03-01. Geographically Distributed Environments: Combinatorial Optimization Library
+  * [MaLLBa TIC99-0754-C03-01](http://neo.lcc.uma.es/mallba/easy-mallba/html/mallba.html)
 * Ministry of Education and Science TRACER (TIC2002-04498- C05-05) 
 * OPLINK (TIN2005-08818-C04-04), 
 * MSTAR (TIN2008-06491-C04-02)
