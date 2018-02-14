@@ -11,7 +11,17 @@
 
 * Docencia en Matemáticas e Informática como profesor Agregado de Bachillerato (1978-1985). 
 * Profesor de Matemáticas en la Universidad de La Laguna (1978-1985). 
-* Desde 1986 ha impartido asignaturas como "Ciencias de la Computación" (Matemáticas), "Teoría de Autómatas y Lenguajes Formales", "Compiladores", "Procesadores de Lenguajes", "Lenguajes y Herramientas de Programación", "Programación en Paralelo", "Lenguajes y Paradigmas de Programación", "Sistemas y Tecnologías Web", "Herramientas Informáticas de Alto Nivel", etc. 
+* Desde 1986 ha impartido asignaturas como 
+  - "Ciencias de la Computación" (Matemáticas), 
+  - "Teoría de Autómatas y Lenguajes Formales", 
+  - "Compiladores", 
+  - "Herramientas Informáticas de Alto Nivel", 
+  - "Procesadores de Lenguajes", 
+  - "Lenguajes y Herramientas de Programación", 
+  - "Programación en Paralelo", 
+  - "Lenguajes y Paradigmas de Programación", 
+  - "Sistemas y Tecnologías Web", 
+  - etc. 
 
 ## Breve currículo investigador: 
 
