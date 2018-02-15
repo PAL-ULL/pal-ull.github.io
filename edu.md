@@ -18,4 +18,4 @@ Pertenencia al grupo de investigación de Algoritmos y Lenguajes Paralelos (Para
   
 ## Información adicional
   * [Perfil de Google Scholar](https://scholar.google.es/citations?user=C1Qets4AAAAJ&hl=es)
-  * [Perfil de ResearchGate] (https://www.researchgate.net/profile/Eduardo_Segredo)
+  * [Perfil de ResearchGate](https://www.researchgate.net/profile/Eduardo_Segredo)
