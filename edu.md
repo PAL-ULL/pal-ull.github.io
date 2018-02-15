@@ -15,3 +15,7 @@ Actualmente, pertenece al Grupo de Algoritmos y Lenguajes Paralelos - Parallel A
 Pertenencia al grupo de investigación de Algoritmos y Lenguajes Paralelos (Parallel Algorithms and Languages - PAL) de la Universidad de La Laguna. 
 
   * Líneas de investigación principales: resolución de problemas de optimización mono-objetivo y multi-objetivo, tanto continuos como discretos, a través del uso de metaheurísticas; esquemas de preservación de diversidad en algoritmos evolutivos; resolución de problemas de optimización de alta dimensionalidad.
+  
+## Información adicional
+  * [Perfil de Google Scholar](https://scholar.google.es/citations?user=C1Qets4AAAAJ&hl=es)
+  * [Perfil de ResearchGate] (https://www.researchgate.net/profile/Eduardo_Segredo)
