@@ -20,5 +20,5 @@
 ## ResearchGate
 
 * [Gara Miranda](https://www.researchgate.net/profile/Gara_Miranda_Valladares)
-* [Perfil de ResearchGate](https://www.researchgate.net/profile/Eduardo_Segredo)
+* [Eduardo Manuel Segredo](https://www.researchgate.net/profile/Eduardo_Segredo)
 
