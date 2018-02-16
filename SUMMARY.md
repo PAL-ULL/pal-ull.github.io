@@ -4,6 +4,7 @@
   - [Casiano Rodríguez](casiano.md)
   - [Gara Miranda](gara.md)
   - [Juan Manuel Ramos](juan-manuel.md)
+  - [Alejandro Marrero](alejandro-marrero.md)
 * [Projects and Colaborations](projects.md)
 * [Publications](publications.md)
 * [Teaching](teaching.md)
