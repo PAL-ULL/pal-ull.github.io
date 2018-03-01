@@ -15,9 +15,9 @@
 							"doNotHideChildrenChapters" : false        
 					},
     "insert-logo-link": {
-       "src": "assets/logo-ull.jpg",
+       "src": "assets/favicon.png",
        "url": "https://www.ull.es"
      },
-			"favicon": "assets/logo-ull.png"
+			"favicon": "assets/favicon.png"
     }
 }
